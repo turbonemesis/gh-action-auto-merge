@@ -15,4 +15,4 @@ jobs:
           type: now
           from_branch: master
           target_branch: develop
-          github_token: ${{ github.token }
+          github_token: ${{ github.token }}
